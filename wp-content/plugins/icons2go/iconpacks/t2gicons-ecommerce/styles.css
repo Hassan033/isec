@@ -1,0 +1,581 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "t2gicons-ecommerce";
+    src: url("fonts/t2gicons-ecommerce.eot");
+    src: url("fonts/t2gicons-ecommerce.eot?#iefix") format("embedded-opentype"), url("fonts/t2gicons-ecommerce.woff") format("woff"), url("fonts/t2gicons-ecommerce.ttf") format("truetype"), url("fonts/t2gicons-ecommerce.svg#t2gicons-ecommerce") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="t2gicon-ecommerce-"]:before,
+[class*=" t2gicon-ecommerce-"]:before {
+    font-family: "t2gicons-ecommerce" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.t2gicon-ecommerce-barcode-bag:before {
+    content: "\61";
+}
+
+.t2gicon-ecommerce-barcode-barcode:before {
+    content: "\62";
+}
+
+.t2gicon-ecommerce-barcode-box:before {
+    content: "\63";
+}
+
+.t2gicon-ecommerce-barcode-frame:before {
+    content: "\64";
+}
+
+.t2gicon-ecommerce-barcode-hand:before {
+    content: "\65";
+}
+
+.t2gicon-ecommerce-barcode-label:before {
+    content: "\66";
+}
+
+.t2gicon-ecommerce-barcode-magnifier:before {
+    content: "\67";
+}
+
+.t2gicon-ecommerce-barcode-mobile:before {
+    content: "\68";
+}
+
+.t2gicon-ecommerce-barcode-mobile-2:before {
+    content: "\69";
+}
+
+.t2gicon-ecommerce-barcode-mobile-3:before {
+    content: "\6a";
+}
+
+.t2gicon-ecommerce-barcode-mobile-4:before {
+    content: "\6b";
+}
+
+.t2gicon-ecommerce-barcode-print:before {
+    content: "\6c";
+}
+
+.t2gicon-ecommerce-barcode-qr:before {
+    content: "\6d";
+}
+
+.t2gicon-ecommerce-barcode-scanner:before {
+    content: "\6e";
+}
+
+.t2gicon-ecommerce-barcode-search:before {
+    content: "\6f";
+}
+
+.t2gicon-ecommerce-barcode-search-2:before {
+    content: "\70";
+}
+
+.t2gicon-ecommerce-barcode-search-mobile:before {
+    content: "\71";
+}
+
+.t2gicon-ecommerce-barcode-sheet:before {
+    content: "\72";
+}
+
+.t2gicon-ecommerce-barcode-ticket:before {
+    content: "\73";
+}
+
+.t2gicon-ecommerce-barcode-ticket-2:before {
+    content: "\74";
+}
+
+.t2gicon-ecommerce-creditcard-atm:before {
+    content: "\75";
+}
+
+.t2gicon-ecommerce-creditcard-bucks:before {
+    content: "\76";
+}
+
+.t2gicon-ecommerce-creditcard-card-arrow:before {
+    content: "\77";
+}
+
+.t2gicon-ecommerce-creditcard-card-disabled:before {
+    content: "\78";
+}
+
+.t2gicon-ecommerce-creditcard-card-enabled:before {
+    content: "\79";
+}
+
+.t2gicon-ecommerce-creditcard-chip:before {
+    content: "\7a";
+}
+
+.t2gicon-ecommerce-creditcard-contactless:before {
+    content: "\41";
+}
+
+.t2gicon-ecommerce-creditcard-credit-cards:before {
+    content: "\42";
+}
+
+.t2gicon-ecommerce-creditcard-credit-cards-2:before {
+    content: "\43";
+}
+
+.t2gicon-ecommerce-creditcard-credit-cards-3:before {
+    content: "\44";
+}
+
+.t2gicon-ecommerce-creditcard-credit-cards-5:before {
+    content: "\45";
+}
+
+.t2gicon-ecommerce-creditcard-cut:before {
+    content: "\46";
+}
+
+.t2gicon-ecommerce-creditcard-hand:before {
+    content: "\47";
+}
+
+.t2gicon-ecommerce-creditcard-pos:before {
+    content: "\48";
+}
+
+.t2gicon-ecommerce-creditcard-pos-2:before {
+    content: "\49";
+}
+
+.t2gicon-ecommerce-creditcard-pos-3:before {
+    content: "\4a";
+}
+
+.t2gicon-ecommerce-creditcard-pos-4:before {
+    content: "\4b";
+}
+
+.t2gicon-ecommerce-creditcard-secure:before {
+    content: "\4c";
+}
+
+.t2gicon-ecommerce-creditcard-sign:before {
+    content: "\4d";
+}
+
+.t2gicon-ecommerce-creditcard-sync:before {
+    content: "\4e";
+}
+
+.t2gicon-ecommerce-delivery-bag:before {
+    content: "\4f";
+}
+
+.t2gicon-ecommerce-delivery-box:before {
+    content: "\50";
+}
+
+.t2gicon-ecommerce-delivery-box-arrow:before {
+    content: "\51";
+}
+
+.t2gicon-ecommerce-delivery-box-content:before {
+    content: "\52";
+}
+
+.t2gicon-ecommerce-delivery-box-delivery-truck:before {
+    content: "\53";
+}
+
+.t2gicon-ecommerce-delivery-box-fast:before {
+    content: "\54";
+}
+
+.t2gicon-ecommerce-delivery-box-hand:before {
+    content: "\55";
+}
+
+.t2gicon-ecommerce-delivery-box-handcare:before {
+    content: "\56";
+}
+
+.t2gicon-ecommerce-delivery-box-hook:before {
+    content: "\57";
+}
+
+.t2gicon-ecommerce-delivery-box-isometric:before {
+    content: "\58";
+}
+
+.t2gicon-ecommerce-delivery-box-man:before {
+    content: "\59";
+}
+
+.t2gicon-ecommerce-delivery-box-open:before {
+    content: "\5a";
+}
+
+.t2gicon-ecommerce-delivery-cargo:before {
+    content: "\30";
+}
+
+.t2gicon-ecommerce-delivery-envelope:before {
+    content: "\31";
+}
+
+.t2gicon-ecommerce-delivery-fast-delivery:before {
+    content: "\32";
+}
+
+.t2gicon-ecommerce-delivery-fast-delivery-2d:before {
+    content: "\33";
+}
+
+.t2gicon-ecommerce-delivery-home:before {
+    content: "\34";
+}
+
+.t2gicon-ecommerce-delivery-plane:before {
+    content: "\35";
+}
+
+.t2gicon-ecommerce-delivery-ship:before {
+    content: "\36";
+}
+
+.t2gicon-ecommerce-delivery-tracking-code:before {
+    content: "\37";
+}
+
+.t2gicon-ecommerce-gift-box:before {
+    content: "\38";
+}
+
+.t2gicon-ecommerce-gift-box-2:before {
+    content: "\39";
+}
+
+.t2gicon-ecommerce-gift-box-3:before {
+    content: "\21";
+}
+
+.t2gicon-ecommerce-gift-box-bag:before {
+    content: "\22";
+}
+
+.t2gicon-ecommerce-gift-box-balloon:before {
+    content: "\23";
+}
+
+.t2gicon-ecommerce-gift-box-coupon-2:before {
+    content: "\24";
+}
+
+.t2gicon-ecommerce-gift-box-envelope:before {
+    content: "\25";
+}
+
+.t2gicon-ecommerce-gift-box-hand:before {
+    content: "\26";
+}
+
+.t2gicon-ecommerce-gift-box-hand-2:before {
+    content: "\27";
+}
+
+.t2gicon-ecommerce-gift-box-like:before {
+    content: "\28";
+}
+
+.t2gicon-ecommerce-gift-box-mobile:before {
+    content: "\29";
+}
+
+.t2gicon-ecommerce-gift-box-shipping:before {
+    content: "\2a";
+}
+
+.t2gicon-ecommerce-gift-box-sparks:before {
+    content: "\2b";
+}
+
+.t2gicon-ecommerce-gift-box-speed:before {
+    content: "\2c";
+}
+
+.t2gicon-ecommerce-gift-boxes:before {
+    content: "\2d";
+}
+
+.t2gicon-ecommerce-gift-boxes-2:before {
+    content: "\2e";
+}
+
+.t2gicon-ecommerce-gift-coupon:before {
+    content: "\2f";
+}
+
+.t2gicon-ecommerce-gift-envelope-ribbon:before {
+    content: "\3a";
+}
+
+.t2gicon-ecommerce-gift-ribbon:before {
+    content: "\3b";
+}
+
+.t2gicon-ecommerce-gift-sheet:before {
+    content: "\3c";
+}
+
+.t2gicon-ecommerce-shopping-24h:before {
+    content: "\3d";
+}
+
+.t2gicon-ecommerce-shopping-add-basket:before {
+    content: "\3e";
+}
+
+.t2gicon-ecommerce-shopping-add-basket-2:before {
+    content: "\3f";
+}
+
+.t2gicon-ecommerce-shopping-bag:before {
+    content: "\40";
+}
+
+.t2gicon-ecommerce-shopping-bag-2:before {
+    content: "\5b";
+}
+
+.t2gicon-ecommerce-shopping-basket:before {
+    content: "\5d";
+}
+
+.t2gicon-ecommerce-shopping-cart:before {
+    content: "\5e";
+}
+
+.t2gicon-ecommerce-shopping-code:before {
+    content: "\5f";
+}
+
+.t2gicon-ecommerce-shopping-coupon:before {
+    content: "\60";
+}
+
+.t2gicon-ecommerce-shopping-delivery-time:before {
+    content: "\7b";
+}
+
+.t2gicon-ecommerce-shopping-free:before {
+    content: "\7c";
+}
+
+.t2gicon-ecommerce-shopping-hot:before {
+    content: "\7d";
+}
+
+.t2gicon-ecommerce-shopping-monitor-basket:before {
+    content: "\7e";
+}
+
+.t2gicon-ecommerce-shopping-receipt:before {
+    content: "\5c";
+}
+
+.t2gicon-ecommerce-shopping-sale:before {
+    content: "\e000";
+}
+
+.t2gicon-ecommerce-shopping-secure-payments:before {
+    content: "\e001";
+}
+
+.t2gicon-ecommerce-shopping-shop:before {
+    content: "\e002";
+}
+
+.t2gicon-ecommerce-shopping-special:before {
+    content: "\e003";
+}
+
+.t2gicon-ecommerce-shopping-support:before {
+    content: "\e004";
+}
+
+.t2gicon-ecommerce-shopping-wallet:before {
+    content: "\e005";
+}
+
+.t2gicon-ecommerce-support-24h-arrows:before {
+    content: "\e006";
+}
+
+.t2gicon-ecommerce-support-24h-phone:before {
+    content: "\e007";
+}
+
+.t2gicon-ecommerce-support-24h-phone-2:before {
+    content: "\e008";
+}
+
+.t2gicon-ecommerce-support-assistant-1:before {
+    content: "\e009";
+}
+
+.t2gicon-ecommerce-support-assistant-2:before {
+    content: "\e00a";
+}
+
+.t2gicon-ecommerce-support-balloon-question:before {
+    content: "\e00b";
+}
+
+.t2gicon-ecommerce-support-balloons:before {
+    content: "\e00c";
+}
+
+.t2gicon-ecommerce-support-chat:before {
+    content: "\e00d";
+}
+
+.t2gicon-ecommerce-support-hand:before {
+    content: "\e00e";
+}
+
+.t2gicon-ecommerce-support-hand-phone:before {
+    content: "\e00f";
+}
+
+.t2gicon-ecommerce-support-info:before {
+    content: "\e010";
+}
+
+.t2gicon-ecommerce-support-infofinger:before {
+    content: "\e011";
+}
+
+.t2gicon-ecommerce-support-lifebuoy:before {
+    content: "\e012";
+}
+
+.t2gicon-ecommerce-support-manual-attention:before {
+    content: "\e013";
+}
+
+.t2gicon-ecommerce-support-manual-balloons-wheel:before {
+    content: "\e014";
+}
+
+.t2gicon-ecommerce-support-manual-finger:before {
+    content: "\e015";
+}
+
+.t2gicon-ecommerce-support-manual-info:before {
+    content: "\e016";
+}
+
+.t2gicon-ecommerce-support-manual-wrench:before {
+    content: "\e017";
+}
+
+.t2gicon-ecommerce-support-question-mark:before {
+    content: "\e018";
+}
+
+.t2gicon-ecommerce-support-window-question:before {
+    content: "\e019";
+}
+
+.t2gicon-ecommerce-testimonials-bullets:before {
+    content: "\e01a";
+}
+
+.t2gicon-ecommerce-testimonials-chat:before {
+    content: "\e01b";
+}
+
+.t2gicon-ecommerce-testimonials-discussion:before {
+    content: "\e01c";
+}
+
+.t2gicon-ecommerce-testimonials-feelings:before {
+    content: "\e01d";
+}
+
+.t2gicon-ecommerce-testimonials-good:before {
+    content: "\e01e";
+}
+
+.t2gicon-ecommerce-testimonials-hearts:before {
+    content: "\e01f";
+}
+
+.t2gicon-ecommerce-testimonials-like:before {
+    content: "\e020";
+}
+
+.t2gicon-ecommerce-testimonials-like-2:before {
+    content: "\e021";
+}
+
+.t2gicon-ecommerce-testimonials-love:before {
+    content: "\e022";
+}
+
+.t2gicon-ecommerce-testimonials-love-2:before {
+    content: "\e023";
+}
+
+.t2gicon-ecommerce-testimonials-mobile:before {
+    content: "\e024";
+}
+
+.t2gicon-ecommerce-testimonials-question:before {
+    content: "\e025";
+}
+
+.t2gicon-ecommerce-testimonials-quote:before {
+    content: "\e026";
+}
+
+.t2gicon-ecommerce-testimonials-rating:before {
+    content: "\e027";
+}
+
+.t2gicon-ecommerce-testimonials-rating-2:before {
+    content: "\e028";
+}
+
+.t2gicon-ecommerce-testimonials-review:before {
+    content: "\e029";
+}
+
+.t2gicon-ecommerce-testimonials-review-2:before {
+    content: "\e02a";
+}
+
+.t2gicon-ecommerce-testimonials-review-3:before {
+    content: "\e02b";
+}
+
+.t2gicon-ecommerce-testimonials-review-4:before {
+    content: "\e02c";
+}
+
+.t2gicon-ecommerce-testimonials-sheet-like:before {
+    content: "\e02d";
+}

@@ -1,0 +1,273 @@
+@charset "UTF-8";
+@font-face {
+    font-family: "t2gicons-tech";
+    src: url("fonts/t2gicons-tech.eot");
+    src: url("fonts/t2gicons-tech.eot?#iefix") format("embedded-opentype"), url("fonts/t2gicons-tech.woff") format("woff"), url("fonts/t2gicons-tech.ttf") format("truetype"), url("fonts/t2gicons-tech.svg#t2gicons-tech") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class*="t2gicon-tech-"] {
+    font-family: "t2gicons-tech" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="t2gicon-tech-"]:before,
+[class*=" t2gicon-tech-"]:before {
+    font-family: "t2gicons-tech" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.t2gicon-tech-ai-assistant:before {
+    content: "\61";
+}
+
+.t2gicon-tech-ai-brain:before {
+    content: "\62";
+}
+
+.t2gicon-tech-ai-brain-wire:before {
+    content: "\63";
+}
+
+.t2gicon-tech-ai-chip:before {
+    content: "\64";
+}
+
+.t2gicon-tech-ai-diagram:before {
+    content: "\65";
+}
+
+.t2gicon-tech-ai-diagram-2:before {
+    content: "\66";
+}
+
+.t2gicon-tech-ai-face-recognition:before {
+    content: "\67";
+}
+
+.t2gicon-tech-ai-image-recognition:before {
+    content: "\68";
+}
+
+.t2gicon-tech-ai-image-shuffle:before {
+    content: "\69";
+}
+
+.t2gicon-tech-ai-iris-recognition:before {
+    content: "\6a";
+}
+
+.t2gicon-tech-ai-kiss:before {
+    content: "\6b";
+}
+
+.t2gicon-tech-ai-learn-robot:before {
+    content: "\6c";
+}
+
+.t2gicon-tech-ai-nodes:before {
+    content: "\6d";
+}
+
+.t2gicon-tech-ai-robot:before {
+    content: "\6e";
+}
+
+.t2gicon-tech-ai-robot-arrow:before {
+    content: "\6f";
+}
+
+.t2gicon-tech-ai-robot-question:before {
+    content: "\70";
+}
+
+.t2gicon-tech-ai-robot-shield:before {
+    content: "\71";
+}
+
+.t2gicon-tech-ai-smile-recognition:before {
+    content: "\72";
+}
+
+.t2gicon-tech-ai-voice-recognition:before {
+    content: "\73";
+}
+
+.t2gicon-tech-ai-wire-gear:before {
+    content: "\74";
+}
+
+.t2gicon-tech-application-api:before {
+    content: "\75";
+}
+
+.t2gicon-tech-application-api-2:before {
+    content: "\76";
+}
+
+.t2gicon-tech-application-code-idea:before {
+    content: "\77";
+}
+
+.t2gicon-tech-application-code-refresh:before {
+    content: "\78";
+}
+
+.t2gicon-tech-application-hammer:before {
+    content: "\79";
+}
+
+.t2gicon-tech-application-mobile:before {
+    content: "\7a";
+}
+
+.t2gicon-tech-application-monitor-code:before {
+    content: "\41";
+}
+
+.t2gicon-tech-application-monitor-window:before {
+    content: "\42";
+}
+
+.t2gicon-tech-application-sheet:before {
+    content: "\43";
+}
+
+.t2gicon-tech-application-terminal:before {
+    content: "\44";
+}
+
+.t2gicon-tech-application-window-hand:before {
+    content: "\45";
+}
+
+.t2gicon-tech-application-window-move:before {
+    content: "\46";
+}
+
+.t2gicon-tech-application-window-resize:before {
+    content: "\47";
+}
+
+.t2gicon-tech-application-window-warning:before {
+    content: "\48";
+}
+
+.t2gicon-tech-application-window-wheel:before {
+    content: "\49";
+}
+
+.t2gicon-tech-application-windows:before {
+    content: "\4a";
+}
+
+.t2gicon-tech-application-windows-2:before {
+    content: "\4b";
+}
+
+.t2gicon-tech-application-windows-3:before {
+    content: "\4c";
+}
+
+.t2gicon-tech-application-windows-4:before {
+    content: "\4d";
+}
+
+.t2gicon-tech-application-windows-exchange:before {
+    content: "\4e";
+}
+
+.t2gicon-tech-database-backup:before {
+    content: "\4f";
+}
+
+.t2gicon-tech-database-cloud:before {
+    content: "\50";
+}
+
+.t2gicon-tech-database-db1:before {
+    content: "\51";
+}
+
+.t2gicon-tech-database-db2:before {
+    content: "\52";
+}
+
+.t2gicon-tech-database-db3:before {
+    content: "\53";
+}
+
+.t2gicon-tech-database-db-arrows:before {
+    content: "\54";
+}
+
+.t2gicon-tech-database-db-cloud:before {
+    content: "\55";
+}
+
+.t2gicon-tech-database-db-down:before {
+    content: "\56";
+}
+
+.t2gicon-tech-database-db-gear:before {
+    content: "\57";
+}
+
+.t2gicon-tech-database-db-hand:before {
+    content: "\58";
+}
+
+.t2gicon-tech-database-db-lock:before {
+    content: "\59";
+}
+
+.t2gicon-tech-database-db-mirror:before {
+    content: "\5a";
+}
+
+.t2gicon-tech-database-db-performance:before {
+    content: "\30";
+}
+
+.t2gicon-tech-database-db-shield:before {
+    content: "\31";
+}
+
+.t2gicon-tech-database-db-up:before {
+    content: "\32";
+}
+
+.t2gicon-tech-database-db-update:before {
+    content: "\33";
+}
+
+.t2gicon-tech-database-sql:before {
+    content: "\34";
+}
+
+.t2gicon-tech-database-table:before {
+    content: "\35";
+}
+
+.t2gicon-tech-database-tree:before {
+    content: "\36";
+}
+
+.t2gicon-tech-database-wheel-db:before {
+    content: "\37";
+}
